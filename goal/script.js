@@ -1,7 +1,6 @@
 // @ts-check
-import getFunction from '../functions.js';
 
-const get = getFunction();
+const get = (obj, str, key) => {return str};
 
 // BEGIN (write your solution here)
 if (get({hello: 'world'}, 'hello') !== 'world') {
