@@ -7,13 +7,10 @@
 ## **С какими технологиями познакомился** 
 
 * [power-asserts](https://github.com/power-assert-js/power-assert)
-
 * [простые утверждения в ноде](https://nodejs.org/api/assert.html#assertdeepequalactual-expected-message)
+* [jest](https://jestjs.io/ru/)
 
----
 
-[*cсылка на курс*](https://ru.hexlet.io/courses/js-testing)
+> [*cсылка на курс*](https://ru.hexlet.io/courses/js-testing)
 
----
-
-[**Связаться со мной**](https://t.me/latnikov)
+>[**Связаться со мной**](https://t.me/latnikov)
